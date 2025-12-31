@@ -1,25 +1,25 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-<h1>Hi 👋, I'm Sigma7863!</h1>
+<h1>Hi 👋, I'm Jaclyn!</h1>
 
-<a href="https://github.com/sigma7863">
-  <img height="20" src="https://komarev.com/ghpvc/?username=sigma7863">
+<a href="https://github.com/JaclynCodes">
+  <img height="20" src="https://komarev.com/ghpvc/?username=JaclynCodes">
 </a>
 
-<!-- **sigma7863/sigma7863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--JaclynCodes /Introductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on learning new slills.
 - 🌱 I’m currently learning Android Studio, Kotlin, Xcode, Swift.
 - 📫 How to reach me: X(Twitter)'s DM.
 - 😄 Pronouns: Sigma
-- ⚡ Fun fact: I'm not good at CSS. -->
+- ⚡ Fun fact: I'm not good at linear math. -->
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/sigma7863/JaclynCodes/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake.svg#gh-light-mode-only">
 </p>
 
 <p align="left">
-  <img src="https://github.com/sigma7863/sigma7863/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://github.com/sigma7863/JaclynCodes/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
 <!-- <h2>Using Languages</h2>
@@ -57,11 +57,11 @@
 </p> -->
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sigma7863&theme=react-dark&bg_color=0D1117&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaclynCodes&theme=react-dark&bg_color=0D1117&hide_border=true">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia" alt="README-Streak-Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JaclynCodes&theme=algolia" alt="README-Streak-Stats">
 </p>
 
 <h2>Studying</h2>
@@ -76,5 +76,5 @@
 
 <h2>GitHub Trophies</h2>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaclynCodes&theme=algolia" alt="GitHub Trophies">
 </p>
